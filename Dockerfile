@@ -9,7 +9,7 @@ RUN mkdir $APP_HOME
 WORKDIR $APP_HOME
 
 # Copiar el archivo jar del proyecto al contenedor
-COPY target/assistant-0.0.1-SNAPSHOT.jar $APP_HOME/app.jar
+COPY target/*.jar app.jar
 
 # Copiar el archivo .env del proyecto al contenedor
 COPY .env $APP_HOME/.env
