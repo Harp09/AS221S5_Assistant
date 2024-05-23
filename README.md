@@ -1,7 +1,6 @@
 # API Cognitive Services - ChatBot
 
-Servicio Cognitivo de anthropic, implementado para mantener una conversacion entre el cliente y el bot, es decir, si la persona manda algun tipo de consulta,el bot va a generar una respuesta adecuada con la consulta que
-se ha realizado.
+Servicio Cognitivo de anthropic, implementado para mantener una conversacion entre el cliente y el bot, es decir, si la persona manda algun tipo de consulta,el bot va a generar una respuesta adecuada con la consulta quese ha realizado.By harp.
 
 ---
 ## 1. Cognitive Services
